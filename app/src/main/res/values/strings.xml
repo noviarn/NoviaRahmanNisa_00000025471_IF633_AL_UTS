@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NoviaRahmanNisa_00000025471_IF633_AL_UTS</string>
+    <string name="displayed_app_name">Music Player</string>
+    <string name="displayed_login">Log in to</string>
+    <string name="btn_vp">View Profile</string>
+    <string name="btn_lg">Login</string>
+    <string name="nim_profile">NIM: 00000025471</string>
+    <string name="nama_profile">Nama: Novia Rahman Nisa</string>
+    <string name="kelas_profile">Kelas: AL</string>
+</resources>
